@@ -12,3 +12,4 @@ cdk.out
 .idea
 .DS_Store
 pip-wheel-metadata
+/local_scripts
